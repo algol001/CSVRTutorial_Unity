@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.dll
+*.exe
+*.zip
+*.rar
+.DS_Store
