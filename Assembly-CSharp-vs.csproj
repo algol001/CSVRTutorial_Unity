@@ -53,6 +53,8 @@
      <Compile Include="Assets\EasyRoads3D Free\scripts\SurfaceScript.cs" />
      <Compile Include="Assets\EasyRoads3D Free\scripts\sideObjectScript.cs" />
      <Compile Include="Assets\Medieval_House\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\MrRabZ\RabbitActionController.cs" />
+     <Compile Include="Assets\MrRabZ\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\ats Package\Demoscene\Terrain\UnityTerrainBump\CustomTerrainScript.cs" />
      <Compile Include="Assets\zzRuler\zzHorizontalRuler.cs" />
      <Compile Include="Assets\zzRuler\zzVerticalRuler.cs" />
@@ -109,6 +111,7 @@
      <None Include="Assets\Fresnel\Shaders\Fresnel - Transparent Rim.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Glass.shader" />
      <None Include="Assets\Forest Grounds - Terrain Texture Pack\Texture Maps - Forest Grounds\Plugins\x86\donotdelete.txt" />
+     <None Include="Assets\MrRabZ\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\EasyRoads3D Free\_readme.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Road-Edit-Mode.shader" />
