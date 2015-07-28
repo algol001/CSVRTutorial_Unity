@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{B39E7171-E8AE-B919-8126-A61865C891B5}</ProjectGuid>
+	<ProjectGuid>{7A8335A6-0E1D-CAFB-07B4-02E8263CC7DD}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -64,34 +64,56 @@
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse Reflective.shader" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Normal-BumpSpec.shader" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Surface.shader" />
+     <None Include="Assets\Medieval_House\Info.txt" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Glass Normal Mapped.shader" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Cube Map Reflections.shader" />
      <None Include="Assets\Forest Grounds - Terrain Texture Pack\Readme.txt" />
      <None Include="Assets\Forest Grounds - Terrain Texture Pack\Texture Maps - Forest Grounds\Plugins\x86_64\donotdelete.txt" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Alpha-Bumped.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\SH-Tree Bark rendertex.shader" />
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularSmooth.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\BillboardTree.shader" />
+     <None Include="Assets\EasyRoads3D Free\Release Notes.txt" />
      <None Include="Assets\ats Package\ats pathShader Package\Shader\ats Road Path bumped diffuse alphatest.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\ats Package\readme_vertexLitShader.txt" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Alpha-BumpSpec.shader" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Alpha-Diffuse.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\Tree.cginc" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D Marker.shader" />
      <None Include="Assets\ats Package\ats vertexLitShader Package\Shader\ats VertexLit.shader" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Surface_Alpha.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\SH_Vertex.cginc" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Unlit Rim Color.shader" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\surfaceAlpha.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\ats SH-Tree Bark.shader" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Normal-Diffuse.shader" />
      <None Include="Assets\ats Package\readme_treeBarkShader.txt" />
      <None Include="Assets\zzRuler\readme.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\Surface.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Transparent Rim.shader" />
+     <None Include="Assets\Fresnel\Shaders\Fresnel - Glass.shader" />
      <None Include="Assets\Forest Grounds - Terrain Texture Pack\Texture Maps - Forest Grounds\Plugins\x86\donotdelete.txt" />
+     <None Include="Assets\EasyRoads3D Free\_readme.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Road-Edit-Mode.shader" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Normal-Bumped.shader" />
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -101,6 +123,9 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="EasyRoads3D">
+ <HintPath>/Users/RisforRocket/Desktop/CSVRTutorial_Unity/Assets/EasyRoads3D Free/lib/EasyRoads3D.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
