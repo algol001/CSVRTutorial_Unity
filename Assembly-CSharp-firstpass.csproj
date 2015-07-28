@@ -144,7 +144,6 @@
      <None Include="Assets\Fresnel\Shaders\Fresnel - Transparent Rim.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Glass.shader" />
      <None Include="Assets\Forest Grounds - Terrain Texture Pack\Texture Maps - Forest Grounds\Plugins\x86\donotdelete.txt" />
-     <None Include="Assets\MrRabZ\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\EasyRoads3D Free\_readme.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Road-Edit-Mode.shader" />

@@ -52,11 +52,6 @@
      <Compile Include="Assets\Medieval_House\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
      <Compile Include="Assets\Medieval_House\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" />
      <Compile Include="Assets\Medieval_House\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
-     <Compile Include="Assets\MrRabZ\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" />
-     <Compile Include="Assets\MrRabZ\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" />
-     <Compile Include="Assets\MrRabZ\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
-     <Compile Include="Assets\MrRabZ\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" />
-     <Compile Include="Assets\MrRabZ\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
      <Compile Include="Assets\RiverWater\Scripts\RiverRefraction.js" />
      <Compile Include="Assets\ScaleExistingTrees.js" />
      <Compile Include="Assets\ScaleObjectDistance.js" />
@@ -128,7 +123,6 @@
      <None Include="Assets\Fresnel\Shaders\Fresnel - Transparent Rim.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Glass.shader" />
      <None Include="Assets\Forest Grounds - Terrain Texture Pack\Texture Maps - Forest Grounds\Plugins\x86\donotdelete.txt" />
-     <None Include="Assets\MrRabZ\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\EasyRoads3D Free\_readme.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Road-Edit-Mode.shader" />
