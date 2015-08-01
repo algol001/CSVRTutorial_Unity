@@ -53,6 +53,9 @@
      <Compile Include="Assets\EasyRoads3D Free\scripts\SurfaceScript.cs" />
      <Compile Include="Assets\EasyRoads3D Free\scripts\sideObjectScript.cs" />
      <Compile Include="Assets\Free_Rocks\Standard Assets\Character Controllers\Sources\Scripts\MouseLook_1.cs" />
+     <Compile Include="Assets\Sardine\Scripts\iwasiMove.cs" />
+     <Compile Include="Assets\Sardine\Scripts\iwasiOcean.cs" />
+     <Compile Include="Assets\Sardine\Scripts\iwasiRigid.cs" />
      <Compile Include="Assets\ats Package\Demoscene\Terrain\UnityTerrainBump\CustomTerrainScript.cs" />
      <Compile Include="Assets\zzRuler\zzHorizontalRuler.cs" />
      <Compile Include="Assets\zzRuler\zzVerticalRuler.cs" />
@@ -90,6 +93,7 @@
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Surface_Alpha.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\SH_Vertex.cginc" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Unlit Rim Color.shader" />
+     <None Include="Assets\Sardine\readme.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />

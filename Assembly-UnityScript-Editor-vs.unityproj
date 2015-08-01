@@ -86,6 +86,7 @@
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Surface_Alpha.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\SH_Vertex.cginc" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Unlit Rim Color.shader" />
+     <None Include="Assets\Sardine\readme.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
