@@ -70,6 +70,8 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
+     <Compile Include="Assets\TW3D\Flies\sources\FlyBehav.js" />
+     <Compile Include="Assets\TW3D\Flies\sources\FlyWings.js" />
      <Compile Include="Assets\TerrainObjectDistance.js" />
      <Compile Include="Assets\ats Package\Demoscene\Controller\flyControllerScript.js" />
      <Compile Include="Assets\ats Package\ats vertexLitShader Package\Script\setupVertexLitShader.js" />
