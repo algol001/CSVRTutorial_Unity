@@ -62,6 +62,7 @@
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse Reflective.shader" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Normal-BumpSpec.shader" />
+     <None Include="Assets\Plugins\Android\assets\donotdelete.txt" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Surface.shader" />
      <None Include="Assets\Medieval_House\Info.txt" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Glass Normal Mapped.shader" />
@@ -77,6 +78,7 @@
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\ats Package\readme_vertexLitShader.txt" />
+     <None Include="Assets\OVR\Moonlight\Shaders\OVRColorRampAlpha.shader" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Alpha-BumpSpec.shader" />
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Alpha-Diffuse.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
@@ -86,6 +88,8 @@
      <None Include="Assets\EasyRoads3D Free\Shaders\EasyRoads3D-Surface_Alpha.shader" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\SH_Vertex.cginc" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Unlit Rim Color.shader" />
+     <None Include="Assets\OVR\Moonlight\Shaders\Unlit Crosshair.shader" />
+     <None Include="Assets\OVR\Moonlight\Resources\Unlit Transparent Color.shader" />
      <None Include="Assets\Sardine\readme.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse.shader" />
