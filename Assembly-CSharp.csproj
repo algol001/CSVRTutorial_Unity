@@ -54,6 +54,8 @@
      <Compile Include="Assets\EasyRoads3D Free\scripts\SurfaceScript.cs" />
      <Compile Include="Assets\EasyRoads3D Free\scripts\sideObjectScript.cs" />
      <Compile Include="Assets\Free_Rocks\Standard Assets\Character Controllers\Sources\Scripts\MouseLook_1.cs" />
+     <Compile Include="Assets\NoiseBrush\NoiseBrush.cs" />
+     <Compile Include="Assets\NoiseBrush\NoiseBrushGenerator.cs" />
      <Compile Include="Assets\OVR\Moonlight\Scripts\OVRDebugHeadController.cs" />
      <Compile Include="Assets\OVR\Moonlight\Scripts\OVROverlay.cs" />
      <Compile Include="Assets\OVR\Moonlight\Scripts\OVRPlatformMenu.cs" />

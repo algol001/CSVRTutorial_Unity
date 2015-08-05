@@ -75,6 +75,7 @@
      <Compile Include="Assets\TerrainObjectDistance.js" />
      <Compile Include="Assets\ats Package\Demoscene\Controller\flyControllerScript.js" />
      <Compile Include="Assets\ats Package\ats vertexLitShader Package\Script\setupVertexLitShader.js" />
+     <Compile Include="Assets\fantasySpider\FS_rotateThis.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\ats Package\Demoscene\Terrain\UnityTerrainBump\TerrainReplacement.shader" />

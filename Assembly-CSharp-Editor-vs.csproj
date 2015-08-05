@@ -53,6 +53,7 @@
      <Compile Include="Assets\EasyRoads3D Free\Editor\SideObjectImporter.cs" />
      <Compile Include="Assets\EasyRoads3D Free\Editor\SideObjectInit.cs" />
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <Compile Include="Assets\NoiseBrush\Editor\NoiseBrushEditor.cs" />
      <Compile Include="Assets\OVR\Moonlight\Editor\OVRMoonlightLoader.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
