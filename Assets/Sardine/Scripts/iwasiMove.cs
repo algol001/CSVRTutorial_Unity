@@ -7,6 +7,13 @@ public class iwasiMove : MonoBehaviour {
 	public Transform target;  
 	Vector3 targetRelPos;
 
+	/*void Start () {
+		Rigidbody rigid = GetComponent<Rigidbody> ();
+		rigid.AddForce (Vector3.forward * 2f, ForceMode.Impulse);
+		GetComponents<AudioSource> () [1].Play ();
+	}
+	*/
+
 	void Update () {
 		targetRelPos = target.position - transform.position;
 
@@ -18,6 +25,9 @@ public class iwasiMove : MonoBehaviour {
 			} else if (dottigawa > 0) {
 				iwasirigid.AddTorque(Vector3.up * Time.deltaTime * rotateSpeed);
 			}
-		iwasirigid.velocity= transform.forward * speed;
+		//iwasirigid.velocity= transform.forward * speed;
+		iwasirigid.AddForce (transform.forward * 2f, ForceMode.Force);
+
+
 	}
 }
