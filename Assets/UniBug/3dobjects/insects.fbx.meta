@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: d814be960c07f2e488d19fb9bbe27f6c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: dragonfly_body
+    100002: //RootNode
+    100004: Camera
+    100006: dragonfly_wing_right
+    100008: dragonfly_wing_left
+    100010: butterfly_03_wing_right
+    100012: butterfly_02_body
+    100014: butterfly_02_wing_right
+    100016: butterfly_02_wing_left
+    100018: butterfly_03_wing_left
+    100020: butterfly_03_body
+    100022: butterfly_01_wing_right
+    100024: butterfly_01_wing_left
+    100026: butterfly_01_body
+    400000: dragonfly_body
+    400002: //RootNode
+    400004: Camera
+    400006: dragonfly_wing_right
+    400008: dragonfly_wing_left
+    400010: butterfly_03_wing_right
+    400012: butterfly_02_body
+    400014: butterfly_02_wing_right
+    400016: butterfly_02_wing_left
+    400018: butterfly_03_wing_left
+    400020: butterfly_03_body
+    400022: butterfly_01_wing_right
+    400024: butterfly_01_wing_left
+    400026: butterfly_01_body
+    2300000: dragonfly_body
+    2300002: dragonfly_wing_right
+    2300004: dragonfly_wing_left
+    2300006: butterfly_03_wing_right
+    2300008: butterfly_02_body
+    2300010: butterfly_02_wing_right
+    2300012: butterfly_02_wing_left
+    2300014: butterfly_03_wing_left
+    2300016: butterfly_03_body
+    2300018: butterfly_01_wing_right
+    2300020: butterfly_01_wing_left
+    2300022: butterfly_01_body
+    3300000: dragonfly_body
+    3300002: dragonfly_wing_right
+    3300004: dragonfly_wing_left
+    3300006: butterfly_03_wing_right
+    3300008: butterfly_02_body
+    3300010: butterfly_02_wing_right
+    3300012: butterfly_02_wing_left
+    3300014: butterfly_03_wing_left
+    3300016: butterfly_03_body
+    3300018: butterfly_01_wing_right
+    3300020: butterfly_01_wing_left
+    3300022: butterfly_01_body
+    4300000: butterfly_01_body
+    4300002: butterfly_01_wing_left
+    4300004: butterfly_01_wing_right
+    4300006: butterfly_03_body
+    4300008: butterfly_03_wing_left
+    4300010: dragonfly_body
+    4300012: butterfly_02_wing_left
+    4300014: butterfly_02_wing_right
+    4300016: butterfly_02_body
+    4300018: butterfly_03_wing_right
+    4300020: dragonfly_wing_left
+    4300022: dragonfly_wing_right
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 38
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
