@@ -11,8 +11,6 @@ Project("{EF59D36B-6543-DBED-7107-D8F172A4EE1D}") = "CSVRTutorial_Unity", "Assem
 EndProject
 Project("{EF59D36B-6543-DBED-7107-D8F172A4EE1D}") = "CSVRTutorial_Unity", "Assembly-UnityScript.unityproj", "{82F156E6-96AC-FD01-FD4E-24C1483175EC}"
 EndProject
-Project("{EF59D36B-6543-DBED-7107-D8F172A4EE1D}") = "CSVRTutorial_Unity", "Assembly-UnityScript-Editor.unityproj", "{A50BD7BD-5988-1E82-5B99-0CEADC78E8A2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,15 +37,11 @@ Global
 		{82F156E6-96AC-FD01-FD4E-24C1483175EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F156E6-96AC-FD01-FD4E-24C1483175EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F156E6-96AC-FD01-FD4E-24C1483175EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A50BD7BD-5988-1E82-5B99-0CEADC78E8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A50BD7BD-5988-1E82-5B99-0CEADC78E8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A50BD7BD-5988-1E82-5B99-0CEADC78E8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A50BD7BD-5988-1E82-5B99-0CEADC78E8A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																													GlobalSection(MonoDevelopProperties) = preSolution
+																																														GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sardine/Scripts/iwasiRigid.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js">
     <Files>
       <File FileName="Assets/UniBug/Scripts/FreeflightCamera.cs" Line="1" Column="1" />
       <File FileName="Assets/RiverWater/Scripts/RiverRefraction.js" Line="1" Column="1" />
@@ -10,7 +10,32 @@
       <File FileName="Assets/Sardine/readme.txt" Line="1" Column="1" />
       <File FileName="Assets/Sardine/Scripts/iwasiRigid.cs" Line="10" Column="45" />
       <File FileName="Assets/Sardine/Scripts/iwasiMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/CardScript.cs" Line="29" Column="14" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="193" Column="42" />
+      <File FileName="Assets/RiverWater/Shaders/RiverWater.shader" Line="1" Column="1" />
+      <File FileName="Assets/ats Package/Demoscene/Terrain/UnityTerrainBump/TerrainReplacement.shader" Line="11" Column="22" />
+      <File FileName="Assets/ats Package/ats treeBarkShader Package/Shader/BillboardTree.shader" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-UnityScript" expanded="True" selected="True" />
+          <Node name="Assembly-UnityScript-firstpass" expanded="True">
+            <Node name="Standard Assets" expanded="True">
+              <Node name="Character Controllers" expanded="True">
+                <Node name="Sources" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
