@@ -113,6 +113,7 @@
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\ats Package\readme_vertexLitShader.txt" />
+     <None Include="Assets\readme.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\ats Package\ats treeBarkShader Package\Shader\Tree.cginc" />
      <None Include="Assets\ats Package\ats vertexLitShader Package\Shader\ats VertexLit.shader" />
