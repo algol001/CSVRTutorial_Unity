@@ -51,6 +51,9 @@
      <Compile Include="Assets\Free_Rocks\Standard Assets\Character Controllers\Sources\Scripts\MouseLook_1.cs" />
      <Compile Include="Assets\NoiseBrush\NoiseBrush.cs" />
      <Compile Include="Assets\NoiseBrush\NoiseBrushGenerator.cs" />
+     <Compile Include="Assets\ProCore\QuickBrush\InSceneClasses\qb_Group.cs" />
+     <Compile Include="Assets\ProCore\QuickBrush\InSceneClasses\qb_Object.cs" />
+     <Compile Include="Assets\ProCore\QuickBrush\InSceneClasses\qb_ObjectContainer.cs" />
      <Compile Include="Assets\Sardine\Scripts\iwasiMove.cs" />
      <Compile Include="Assets\Sardine\Scripts\iwasiOcean.cs" />
      <Compile Include="Assets\Sardine\Scripts\iwasiRigid.cs" />
@@ -89,6 +92,7 @@
      <None Include="Assets\Fresnel\Shaders\Fresnel - Unlit Rim Color.shader" />
      <None Include="Assets\Extreme Flora Pack\README.txt" />
      <None Include="Assets\Sardine\readme.txt" />
+     <None Include="Assets\ProCore\QuickBrush\Docs\ChangeLog.txt" />
      <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
      <None Include="Assets\Fresnel\Shaders\Fresnel - Diffuse.shader" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
