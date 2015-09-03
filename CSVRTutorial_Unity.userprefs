@@ -10,16 +10,6 @@
           <Node name="Assembly-CSharp" expanded="True">
             <Node name="CardScript.cs" selected="True" />
           </Node>
-          <Node name="Assembly-UnityScript" expanded="True" />
-          <Node name="Assembly-UnityScript-firstpass" expanded="True">
-            <Node name="Standard Assets" expanded="True">
-              <Node name="Character Controllers" expanded="True">
-                <Node name="Sources" expanded="True">
-                  <Node name="Scripts" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
         </State>
       </Pad>
     </Pads>
