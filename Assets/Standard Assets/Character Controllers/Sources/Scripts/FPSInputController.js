@@ -1,8 +1,18 @@
 private var motor : CharacterMotor;
-
+/*
+private var locked : int;
 // Use this for initialization
+
+public function Lock(){
+	locked=1;
+}
+public function Unlock(){
+	locked=0;
+}
+*/
 function Awake () {
 	motor = GetComponent(CharacterMotor);
+//	locked=0;
 }
 
 // Update is called once per frame
@@ -10,7 +20,8 @@ function Update () {
 	// Get the input vector from kayboard or analog stick
 	var directionVector = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 	
-	if (directionVector != Vector3.zero) {
+	if (directionVector != Vector3.zero //&& locked==0
+	) {
 		// Get the length of the directon vector and then normalize it
 		// Dividing by the length is cheaper than normalizing when we already have the length anyway
 		var directionLength = directionVector.magnitude;

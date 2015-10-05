@@ -46,17 +46,27 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AssessmentCardScript.cs" />
+     <Compile Include="Assets\AudioTrigger.cs" />
      <Compile Include="Assets\Bench\Scripts\CameraOrbitScript.cs" />
+     <Compile Include="Assets\ButtonLabel.cs" />
      <Compile Include="Assets\CardScript.cs" />
+     <Compile Include="Assets\CheckIconScript.cs" />
      <Compile Include="Assets\Free_Rocks\Standard Assets\Character Controllers\Sources\Scripts\MouseLook_1.cs" />
+     <Compile Include="Assets\LinkEnabledObjects.cs" />
+     <Compile Include="Assets\MessageScript.cs" />
      <Compile Include="Assets\NoiseBrush\NoiseBrush.cs" />
      <Compile Include="Assets\NoiseBrush\NoiseBrushGenerator.cs" />
+     <Compile Include="Assets\NotebookScript.cs" />
+     <Compile Include="Assets\PageImageScript.cs" />
+     <Compile Include="Assets\PlayerController.cs" />
      <Compile Include="Assets\ProCore\QuickBrush\InSceneClasses\qb_Group.cs" />
      <Compile Include="Assets\ProCore\QuickBrush\InSceneClasses\qb_Object.cs" />
      <Compile Include="Assets\ProCore\QuickBrush\InSceneClasses\qb_ObjectContainer.cs" />
      <Compile Include="Assets\Sardine\Scripts\iwasiMove.cs" />
      <Compile Include="Assets\Sardine\Scripts\iwasiOcean.cs" />
      <Compile Include="Assets\Sardine\Scripts\iwasiRigid.cs" />
+     <Compile Include="Assets\StateEventBehaviour.cs" />
      <Compile Include="Assets\UniBug\Scripts\FreeflightCamera.cs" />
      <Compile Include="Assets\UniBug\Scripts\UniBug.cs" />
      <Compile Include="Assets\ats Package\Demoscene\Terrain\UnityTerrainBump\CustomTerrainScript.cs" />
