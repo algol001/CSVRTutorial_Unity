@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AssessmentCardScript.cs" />
+     <Compile Include="Assets\AudioMasterVolume.cs" />
      <Compile Include="Assets\AudioTrigger.cs" />
      <Compile Include="Assets\Bench\Scripts\CameraOrbitScript.cs" />
      <Compile Include="Assets\ButtonLabel.cs" />
